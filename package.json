@@ -1,0 +1,28 @@
+{
+  "name": "p2p-ws",
+  "version": "0.0.1",
+  "description": "p2p network over WebSocket",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^0.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslg26/p2p-ws.git"
+  },
+  "keywords": [
+    "p2p",
+    "ws",
+    "webscoket"
+  ],
+  "author": "Lucas Vasconcelos; Luiz Eduardo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lucaslg26/p2p-ws/issues"
+  },
+  "homepage": "https://github.com/lucaslg26/p2p-ws#readme"
+}
