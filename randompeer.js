@@ -1,5 +1,5 @@
 /* TODO: Conectar a peers da lista de IP's adquirida do tracker */
-/* TODO: Achar uma mandeira de gerar um ID único para cada peer baseado no IP e anúncio */
+/* TODO: Achar uma maneira de gerar um ID único para cada peer baseado no IP e anúncio */
 
 var WebSocket = require('ws');
 var peers = {};
